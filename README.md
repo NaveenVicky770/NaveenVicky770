@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on ...
               Web Developement Projects
 - 📫 How to reach me ...
-              Phone,NO: 9505444749 (whatsapp)
+              Phone,No: 9505444749 (whatsapp)
               Email: naveenvicky770@gmail.com
 
 <!---
