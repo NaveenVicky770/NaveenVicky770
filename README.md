@@ -10,7 +10,7 @@
 - 📫 How to reach me ...
               Phone,No: 9505444749 (whatsapp)
               Email: naveenvicky770@gmail.com
-
+- naveenvicky.tech
 <!---
 NaveenVicky770/NaveenVicky770 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
